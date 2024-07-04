@@ -11,3 +11,5 @@ If u do choose to use GitHub, u can also save a copy for a clean slate
 After we comment on all the functions and stuff, we can choose to do two projects, a few I got in mind are 4 pongs(? the thing u hit the ball with) on each side, 2 seperate games on one screen, and a best-of-5 system.
 
 After we finish with those we'll start the image stuff.
+
+this the reference gitHub if you're interested: [Pong](https://github.com/SMDS-Studio/Building-a-New-creative-Pong-/blob/main/README.md)
