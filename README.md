@@ -13,3 +13,4 @@ After we comment on all the functions and stuff, we can choose to do two project
 After we finish with those we'll start the image stuff.
 
 this the reference gitHub if you're interested: [Pong](https://github.com/SMDS-Studio/Building-a-New-creative-Pong-/blob/main/README.md)
+And the reference video for commenting: [Video](https://www.youtube.com/watch?v=tS8F7_X2qB0)
